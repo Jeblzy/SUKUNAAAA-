@@ -2,6 +2,6 @@ body{
     color:black;
     background-color: beige;
 }
-header style='
-border:solid 2px rgb(99, 50, 5); 
-'}
+header {
+    border: solid 2px 
+}
